@@ -2,7 +2,7 @@
 
 #### Video Demo: [https://youtu.be/mFuDlAwjrl0](https://youtu.be/mFuDlAwjrl0)
 
-#### Link Demo: []
+#### Link Demo: [https://pdn237.github.io/Sorting-Visualizer---Interactive-Algorithm-Demonstration/]
 #### Description:
 An interactive web application that brings sorting algorithms to life through dynamic visualizations, transforming abstract concepts into engaging, real-time animations.
 
